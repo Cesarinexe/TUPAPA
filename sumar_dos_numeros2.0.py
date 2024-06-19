@@ -1,5 +1,5 @@
-num1 =int(input("ingrese numero 1: "))
-num2 = int(input("ingrese numero 2: "))
+num1 =float(input("ingrese numero 1: "))
+num2 = float(input("ingrese numero 2: "))
 
 sumar=num1+num2
 
